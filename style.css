@@ -1,0 +1,37 @@
+li:nth-child(3) {
+  font-size: 75%;
+}
+mark2 {
+  font-size: 125%;
+}
+mark1 {
+  font-size: 120%;
+  color: orange;
+}
+body {
+  background-image: url(https://animeright.news/wp-content/uploads/sites/2/2019/01/1494061034956-768x531.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content{
+  max-width: 500px;
+  margin: auto;
+  font-size: 125%;
+  color: white;
+}
+.container{
+  width; 100px;
+  float: left;
+}
+.container left{
+  margin: auto;
+  float: left;
+  width: auto;
+  height: auto;
+}
+mark3{
+  color: #FF69B4;
+}
+.center {
+  width: 75%;
+}
